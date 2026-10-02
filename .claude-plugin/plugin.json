@@ -5,7 +5,24 @@
   "description": "Run real bioinformatics on your own data from a conversation: sequence analysis, variant calling, RNA-seq, AI protein design, and literature search, through the smarts.bio platform.",
   "author": {
     "name": "smarts.bio",
-    "url": "https://smarts.bio"
+    "url": "https://www.smarts.bio"
   },
-  "license": "MIT"
+  "homepage": "https://www.smarts.bio",
+  "repository": "https://github.com/smartsbio/smarts-bio-skills",
+  "license": "MIT",
+  "keywords": [
+    "bioinformatics",
+    "genomics",
+    "sequencing",
+    "variant-calling",
+    "rna-seq",
+    "protein-design",
+    "drug-discovery",
+    "life-sciences"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://www.smarts.bio/docs/mcp",
+  "supportUrl": "https://www.smarts.bio/support",
+  "privacyPolicyUrl": "https://www.smarts.bio/privacy",
+  "termsOfServiceUrl": "https://www.smarts.bio/terms"
 }
