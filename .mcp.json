@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "smarts": {
+      "type": "http",
+      "url": "https://mcp.smarts.bio/mcp"
+    }
+  }
+}

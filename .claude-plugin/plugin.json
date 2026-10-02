@@ -1,0 +1,11 @@
+{
+  "name": "smarts-bio",
+  "displayName": "smarts.bio",
+  "version": "0.1.0",
+  "description": "Run real bioinformatics on your own data from a conversation: sequence analysis, variant calling, RNA-seq, AI protein design, and literature search, through the smarts.bio platform.",
+  "author": {
+    "name": "smarts.bio",
+    "url": "https://smarts.bio"
+  },
+  "license": "MIT"
+}
